@@ -1,5 +1,6 @@
 # Iris_Dataset
 The iris flowers have different species and you can distinguish them based on the length of petals and sepals. This is a basic project for machine learning beginners to predict the species of a new iris flower.
+
 The dataset consists of:
 1.150 samples
 2.3 labels: species of Iris (Iris setosa, Iris virginica and Iris versicolor)
